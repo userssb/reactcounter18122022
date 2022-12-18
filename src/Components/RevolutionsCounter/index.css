@@ -1,0 +1,65 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-image: url('https://cdn.xxl.thumbs.canstockphoto.com/illustration-of-om-in-decorated-yellow-drawing_csp3245360.jpg');
+  background-size: contain;
+  width: 80%;
+  margin: auto;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: red;
+  text-decoration: dotted;
+}
+.btn-reset {
+  background-color: red;
+  font-size: 25px;
+  color: greenyellow;
+  border-radius: 100%;
+  height: 32px;
+  width: 100px;
+  margin-top: 10px;
+}
+
+.count {
+  font-size: 80px;
+  font-family: 'Roboto';
+  color: #2e3e4e;
+  margin-top: 8px;
+  margin-bottom: 20px;
+}
+
+.button {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: 'Roboto';
+  color: white;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin: 8px;
+  background-color: #7c69e9;
+  border: none;
+  border-radius: 4px;
+}
+.butt {
+  font-family: Roboto;
+  color: maroon;
+  font-size: 35px;
+  font-weight: 600;
+  height: 200px;
+  width: 195px;
+  background-color: greenyellow;
+  border-radius: 100%;
+  padding: 10px;
+}
+.alert {
+  color: green;
+  font-size: 35px;
+}
